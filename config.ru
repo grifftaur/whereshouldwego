@@ -1,3 +1,3 @@
-require "./thefood"
+require "./"
 
 run Sinatra::Application
