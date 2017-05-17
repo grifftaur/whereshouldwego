@@ -3,5 +3,5 @@ require "bundler"
 
 Bundler.require
 
-require "./app"
+require "./randomfood.rb"
 run Sinatra::Application
