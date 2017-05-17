@@ -1,8 +1,9 @@
 require 'sinatra'
 
-get '/' do 
+  get '/' do 
     erb :index
-end
+  end
+
 
 post '/randomrestaurant' do
 	restaurants = ["parrish", "krog", "fritti", "kale me crazy", "victory", "pure taqueria", "superica", "bar taco"]
