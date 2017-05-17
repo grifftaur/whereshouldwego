@@ -1,1 +1,1 @@
-This is a bunch of text to explain how the app works. 
+My co-workers are always asking where we should go eat. So I created a simple app that puts all of the restaurant choices we have in an array, and then randomly selects a restaurant from the array. I deployed the app to Heroku and you can check it out at this link https://whereshouldwego.herokuapp.com/
